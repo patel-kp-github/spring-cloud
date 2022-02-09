@@ -41,7 +41,7 @@
 
     <properties>
         <spring-cloud-dependencies.version>Brixton.SR7</spring-cloud-dependencies.version>
-        <spring-cloud-task.version>1.2.2.RELEASE</spring-cloud-task.version>
+        <spring-cloud-task.version>2.3.0</spring-cloud-task.version>
     </properties>
 
 </project>
