@@ -60,7 +60,7 @@
     </dependencies>
 
     <properties>
-        <cloud.version>2.0.1.RELEASE</cloud.version>
+        <cloud.version>3.0.7</cloud.version>
         <hibernate-validator.version>6.0.2.Final</hibernate-validator.version>
     </properties>
 
